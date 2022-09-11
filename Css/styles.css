@@ -155,7 +155,7 @@ body::-webkit-scrollbar-track {
 }
 .astro{
     width: 17vw;
-    height: auto;
+    height: 17vw;
     animation: float1 6s ease-in-out infinite;
 }
 
